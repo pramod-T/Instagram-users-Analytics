@@ -1,5 +1,5 @@
 # Instagram-users-Analytics
-Simple project on Data analytics using SQL Queries to get insights from the data by joining the tables.
+Simple Data Exploration project using SQL Queries to get insights from the data. 
 
 # About Project 
 User analysis is done on the users data that is provide in the database. The insights generated from this analysis can be used by business to improve user experience.
